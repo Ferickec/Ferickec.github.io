@@ -4,11 +4,24 @@
   
     
     <entry>
-      <title>文章</title>
+      <title>第二次测试的文章</title>
+      <link href="/2023/02/19/%E7%AC%AC%E4%BA%8C%E7%AB%A0/"/>
+      <url>/2023/02/19/%E7%AC%AC%E4%BA%8C%E7%AB%A0/</url>
+      
+        <content type="html"><![CDATA[<p>666</p>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>第一次测试的文章</title>
       <link href="/2023/02/18/%E6%B5%8B%E8%AF%95/"/>
       <url>/2023/02/18/%E6%B5%8B%E8%AF%95/</url>
       
-        <content type="html"><![CDATA[<h2 id="文章"><a href="#文章" class="headerlink" title="文章"></a>文章</h2>]]></content>
+        <content type="html"><![CDATA[<h1 id="第一次试试写一个100以内数字相加python程序"><a href="#第一次试试写一个100以内数字相加python程序" class="headerlink" title="第一次试试写一个100以内数字相加python程序"></a>第一次试试写一个100以内数字相加python程序</h1><figure class="highlight python"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><span class="line">sun=<span class="number">0</span></span><br><span class="line"><span class="keyword">for</span> x <span class="keyword">in</span> <span class="built_in">range</span>(<span class="number">0</span>,<span class="number">101</span>):</span><br><span class="line">    <span class="built_in">sum</span> = <span class="built_in">sum</span> + x</span><br><span class="line"><span class="built_in">print</span>(<span class="built_in">sum</span>)</span><br></pre></td></tr></table></figure><p>行了，第一次就小小地测试一下</p>]]></content>
       
       
       
